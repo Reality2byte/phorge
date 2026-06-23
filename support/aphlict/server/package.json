@@ -7,6 +7,6 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "ws": "^7.5.10"
+    "ws": "^7.5.11"
   }
 }
